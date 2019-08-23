@@ -1,5 +1,5 @@
 # js_homework
-git remote add origin
+git remote add origin https://github.com/glassesmonkey/js_homework.git
 
 git pull origin master
 
